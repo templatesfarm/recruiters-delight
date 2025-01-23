@@ -1,0 +1,14 @@
+{
+  "buildCommand": "next build",
+  "devCommand": "next dev",
+  "installCommand": "npm install",
+  "framework": "nextjs",
+  "outputDirectory": ".next",
+  "env": {
+    "GITHUB_USERNAME": "@github_username",
+    "GITHUB_REPO": "@github_repo",
+    "GITHUB_TOKEN": "@github_token",
+    "NEXT_PUBLIC_PORTFOLIO_ACCESS_KEY":"@next_public_portfolio_access_key",
+    "NEXT_PUBLIC_PASSWORD":"@next_public_password"
+  }
+}

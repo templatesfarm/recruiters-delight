@@ -1,0 +1,98 @@
+{
+  "personalInfo": {
+    "displayName": "",
+    "name": "Yash Chawla",
+    "contactNumber": "9364001200",
+    "email": "yashchawla@gmail.com",
+    "socialMedia": {
+      "linkedIn": "https://www.linkedin.com/in/deepakpahawa/",
+      "github": "https://github.com/deepakpahwa19",
+      "youtube": "https://www.linkedin.com/in/deepakpahawa/"
+    },
+    "resumeName": "Deepak Pahawa_CV.docx"
+  },
+  "heroInfo": {
+    "displayName": "",
+    "message": "Hi! I am Deepak",
+    "introduction": "A Full Stack Developer",
+    "description": "I am expert at crafting optimized web solutions and staying up-to-date with the latest technologies. My goal is to deliver high-quality, efficient, and user-friendly applications that exceed expectations."
+  },
+  "skillsInfo": {
+    "displayName": "Arsenal",
+    "skills": [
+      {
+        "name": "TypeScript",
+        "rating": 8.5
+      },
+      {
+        "name": "JavaScript",
+        "rating": 10
+      },
+      {
+        "name": "NextJS",
+        "rating": 8.5
+      },
+      {
+        "name": "Tailwind CSS",
+        "rating": 7.5
+      },
+      {
+        "name": "Material UI",
+        "rating": 8
+      },
+      {
+        "name": "ReactJS",
+        "rating": 3
+      }
+    ]
+  },
+  "projectsInfo": {
+    "displayName": "",
+    "projects": [
+      {
+        "projectName": "Intuit Quickbooks",
+        "designation": "Lead Software Engineer",
+        "link": "https://quickbooks.intuit.com/",
+        "skills": "ReactJS, TypeScript, Redux, PWA",
+        "companyName": "Intuit",
+        "timeline": "2023-25",
+        "headline1": "I worked here as a SE",
+        "headline2": "I've managed the team of 5 members",
+        "images": [
+          "https://raw.githubusercontent.com/templatesfarm/placement-pro/master/images/Intuit%20Quickbooks.png",
+          "https://raw.githubusercontent.com/templatesfarm/placement-pro/master/images/lowes.png",
+          "https://raw.githubusercontent.com/templatesfarm/placement-pro/master/images/Webex.png"
+        ]
+      },
+      {
+        "timeline": "2020-21",
+        "projectName": "Intuit Quickbooks",
+        "headline1": "5th & 9th floor DLF Techno park",
+        "headline2": "Gachibowli",
+        "designation": "Senior Software Engineer",
+        "link": "https://quickbooks.intuit.com/",
+        "cover": "",
+        "skills": "Java, JavaScript, Next.JS, React.JS",
+        "companyName": "Microsoft",
+        "clientName": "",
+        "images": [
+          "https://raw.githubusercontent.com/templatesfarm/placement-pro/master/images/Webex.png",
+          "https://raw.githubusercontent.com/templatesfarm/placement-pro/master/images/lowes.png"
+        ]
+      },
+      {
+        "timeline": "2015-20",
+        "projectName": "Intuit Quickbooks",
+        "headline1": "I was the Champion at Intuit",
+        "headline2": "",
+        "designation": "Software Engineer",
+        "link": "",
+        "cover": "",
+        "skills": "Java, Selenium, Webdriver",
+        "companyName": "Altimetrik",
+        "clientName": "Intuit",
+        "images": []
+      }
+    ]
+  }
+}
