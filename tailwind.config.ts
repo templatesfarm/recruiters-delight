@@ -11,7 +11,7 @@ const config: Config = {
     "./src/**/*.{js,ts,jsx,tsx,mdx}",
     "./src/components/**/*.{js,ts,jsx,tsx,mdx}",
     "./src/app/**/*.{js,ts,jsx,tsx,mdx}",
-    "./node_modules/portfolioui/dist/*.js",
+    "./node_modules/portfolioui/dist/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
     extend: {
