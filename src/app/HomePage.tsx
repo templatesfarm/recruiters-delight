@@ -1,5 +1,5 @@
 "use client";
-import Footer from "@/components/portfolio/Footer";
+import { Footer } from "@/components/portfolio/Footer";
 import { Dock } from "@/components/portfolio/Dock";
 import { Hero } from "@/components/portfolio/Hero";
 import PasswordInput from "@/components/PasswordInput";

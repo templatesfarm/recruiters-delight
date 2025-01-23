@@ -1,8 +1,8 @@
 import { usePortfolioStore } from "@/store/usePortfolioStore";
 import { Skeleton } from "../ui/skeleton";
-import { ContactViewWithAuth } from "portfolioui/hr-favorite";
+import { ContactViewWithAuth } from "portfolioui/recruiters-delight";
 
-export default function Footer() {
+export function Footer() {
   const { portfolio, isLoading } = usePortfolioStore();
   const { personalInfo } = portfolio;
 

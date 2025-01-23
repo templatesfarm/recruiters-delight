@@ -1,7 +1,7 @@
 import React from "react";
 import { usePortfolioStore } from "@/store/usePortfolioStore";
 import { useAppStore } from "@/store/appStore";
-import { ProjectsTimelineWithAuth } from "portfolioui/hr-favorite";
+import { ProjectsEditableWithAuth } from "portfolioui/recruiters-delight";
 
 export const Projects = () => {
   const {
@@ -11,13 +11,13 @@ export const Projects = () => {
   } = usePortfolioStore();
   const { isEditing } = useAppStore();
   return (
-    <ProjectsTimelineWithAuth
+    <ProjectsEditableWithAuth
       isEditing={isEditing}
       saveProjectsInfo={saveProjectsInfo}
       projectsInfo={projectsInfo}
       isLoading={isLoading}
-      circleClassName="bg-fuchsia-300 dark:bg-fuchsia-300"
-      lineClassName="from-purple-800 via-pink-700"
+      circleClassName="bg-blue-300 dark:bg-blue-300"
+      lineClassName="from-violet-800 via-blue-700"
     />
   );
 };

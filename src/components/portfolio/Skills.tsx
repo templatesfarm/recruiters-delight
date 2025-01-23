@@ -2,7 +2,7 @@
 import React from "react";
 import { useAppStore } from "@/store/appStore";
 import { usePortfolioStore } from "@/store/usePortfolioStore";
-import { SkillsEditableWithAuth } from "portfolioui/hr-favorite";
+import { SkillsEditableWithAuth } from "portfolioui/recruiters-delight";
 
 export const Skills = () => {
   const { portfolio, saveSkillsInfo, isLoading } = usePortfolioStore();

@@ -2,7 +2,7 @@ import React from "react";
 import { usePortfolioStore } from "@/store/usePortfolioStore";
 import { useAppStore } from "@/store/appStore";
 import { useTheme } from "next-themes";
-import { DockEditableWithAuth } from "portfolioui/hr-favorite";
+import { DockEditableWithAuth } from "portfolioui/recruiters-delight";
 
 export const Dock = () => {
   const {
