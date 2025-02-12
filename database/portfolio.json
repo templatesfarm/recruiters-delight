@@ -27,9 +27,29 @@
       {
         "name": "Data Visualization",
         "rating": 8.5
+      },
+      {
+        "name": "SQL & Database Management",
+        "rating": 7.5
+      },
+      {
+        "name": "Statistical Analysis",
+        "rating": 8.5
+      },
+      {
+        "name": "Business Intelligence (BI)",
+        "rating": 7
+      },
+      {
+        "name": "Dashboard & Reporting",
+        "rating": 8.5
+      },
+      {
+        "name": "Data Cleaning & Preprocessing",
+        "rating": 9
       }
     ],
-    "showMovingSkills": false
+    "showMovingSkills": true
   },
   "projectsInfo": {
     "displayName": "Timeline",
