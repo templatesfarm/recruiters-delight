@@ -74,7 +74,12 @@
         },
         "skills": "Big Data, AWS, Python, Deep Learning, NLP",
         "companyName": "Amazon",
-        "images": [],
+        "images": [
+          {
+            "fileName": "da5.png",
+            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/recruiters-delight/master/images/da5.png"
+          }
+        ],
         "rank": "2"
       },
       {
@@ -89,7 +94,16 @@
         },
         "skills": "AI/ML, Google Cloud, Advanced Data Science, Business Intelligence",
         "companyName": "Google",
-        "images": [],
+        "images": [
+          {
+            "fileName": "da4.png",
+            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/recruiters-delight/master/images/da4.png"
+          },
+          {
+            "fileName": "da3.png",
+            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/recruiters-delight/master/images/da3.png"
+          }
+        ],
         "rank": "1"
       },
       {
@@ -106,7 +120,12 @@
         "skills": "Business Intelligence, Data Engineering, Python, Machine Learning",
         "companyName": "TCS (Tata Consultancy Services)",
         "clientName": "",
-        "images": [],
+        "images": [
+          {
+            "fileName": "da2.jpg",
+            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/recruiters-delight/master/images/da2.jpg"
+          }
+        ],
         "rank": "3"
       },
       {
