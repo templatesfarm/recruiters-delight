@@ -47,9 +47,17 @@
       {
         "name": "Data Cleaning & Preprocessing",
         "rating": 9
+      },
+      {
+        "name": "Machine Learning Basics",
+        "rating": 8.5
+      },
+      {
+        "name": "Python for Data Analysis",
+        "rating": 6
       }
     ],
-    "showMovingSkills": true
+    "showMovingSkills": false
   },
   "projectsInfo": {
     "displayName": "Timeline",
