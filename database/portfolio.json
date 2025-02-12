@@ -57,14 +57,14 @@
       {
         "timeline": "2021 - Present",
         "projectName": "",
-        "headline1": "",
-        "headline2": "",
-        "designation": "",
+        "headline1": "Driving AI-powered Business Insights.",
+        "headline2": "Developed large-scale data models to improve ad targeting, boosting revenue by 25%. Led a team to build automated data pipelines reducing manual work by 40%. Spearheaded AI-driven sentiment analysis to enhance customer experience.",
+        "designation": "Principal Data Scientist",
         "link": {
-          "linkText": "",
-          "linkUrl": ""
+          "linkText": "Link",
+          "linkUrl": "https://originui.com/badge"
         },
-        "skills": "",
+        "skills": "AI/ML, Google Cloud, Advanced Data Science, Business Intelligence",
         "companyName": "Google",
         "images": []
       },
