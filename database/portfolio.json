@@ -85,15 +85,17 @@
         "rank": "1"
       },
       {
-        "timeline": "2022-24",
-        "projectName": "Lowe's Cart",
-        "headline1": "I developed the Cart feature in ReactJS by building Micro Front Ends. I developed the Cart feature in ReactJS by building Micro Front Ends . I developed the Cart feature in ReactJS by building Micro Front Ends. I developed the Cart feature in ReactJS by building Micro Front Ends. I developed the Cart feature in ReactJS by building Micro Front Ends. I developed the Cart feature in ReactJS by building Micro Front Ends",
-        "headline2": "I developed the Cart feature in ReactJS by building Micro Front Ends. I developed the Cart feature in ReactJS by building Micro Front Ends . I developed the Cart feature in ReactJS by building Micro Front Ends. I developed the Cart feature in ReactJS by building Micro Front Ends. I developed the Cart feature in ReactJS by building Micro Front Ends. I developed the Cart feature in ReactJS by building Micro Front Ends",
-        "designation": "Lead Software Engineer",
-        "link": "",
+        "timeline": "2007-2011",
+        "projectName": "",
+        "headline1": "Worked on Data-driven Decision Making",
+        "headline2": "Developed automated dashboards in Tableau and Power BI, reducing reporting time by 50%. Optimized SQL queries for large datasets, improving query efficiency by 40%. Implemented predictive analytics models for sales forecasting, increasing revenue accuracy by 15%.",
+        "designation": "Data Analyst",
+        "link": {
+          "linkUrl": "https://originui.com/badge"
+        },
         "cover": "",
-        "skills": "ReactJS, TypeScript, Redux, PWA",
-        "companyName": "Lowe's",
+        "skills": "SQL, Data Warehousing, Tableau, Python",
+        "companyName": "Infosys",
         "clientName": "",
         "images": [
           {
