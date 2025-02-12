@@ -55,6 +55,20 @@
     "displayName": "Timeline",
     "projects": [
       {
+        "timeline": "",
+        "projectName": "",
+        "headline1": "",
+        "headline2": "",
+        "designation": "",
+        "link": {
+          "linkText": "",
+          "linkUrl": ""
+        },
+        "skills": "",
+        "companyName": "",
+        "images": []
+      },
+      {
         "timeline": "2011 - 2016",
         "projectName": "",
         "headline1": "Led Data Engineering and Predictive Analytics.",
@@ -72,21 +86,21 @@
         "rank": "3"
       },
       {
-        "timeline": "2021 - Present",
+        "timeline": "2016 - 2021",
         "projectName": "",
-        "headline1": "Driving AI-powered Business Insights",
-        "headline2": "Developed large-scale data models to improve ad targeting, boosting revenue by 25%. Led a team to build automated data pipelines reducing manual work by 40%. Spearheaded AI-driven sentiment analysis to enhance customer experience.",
-        "designation": "Principal Data Scientist",
+        "headline1": "Led AI-driven Analytics for E-commerce Growth.",
+        "headline2": "Built AI-powered customer recommendation systems, improving conversion rates by 18%. Developed real-time fraud detection algorithms using machine learning and NLP, reducing fraud cases by 35%. Optimized supply chain forecasting models, cutting logistics costs by 20%.",
+        "designation": "Lead Data Analyst",
         "link": {
           "linkUrl": "https://originui.com/badge",
           "linkText": "Link"
         },
         "cover": "",
-        "skills": "AI/ML, Google Cloud, Advanced Data Science, Business Intelligence",
-        "companyName": "Google",
+        "skills": "Big Data, AWS, Python, Deep Learning, NLP",
+        "companyName": "Amazon",
         "clientName": "",
         "images": [],
-        "rank": "1"
+        "rank": "2"
       }
     ]
   },
