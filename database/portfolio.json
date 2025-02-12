@@ -55,34 +55,35 @@
     "displayName": "Timeline",
     "projects": [
       {
-        "timeline": "Jul'04-Jun'07",
-        "projectName": "Intuit Quickbooks Online",
-        "headline1": "Intuit Quickbooks Online",
-        "headline2": "I developed the Cart feature in ReactJS by building Micro Front Ends. I developed the Cart feature in ReactJS by building Micro Front Ends . I developed the Cart feature in ReactJS by building Micro Front Ends. I developed the Cart feature in ReactJS by building Micro Front Ends. I developed the Cart feature in ReactJS by building Micro Front Ends. I developed the Cart feature in ReactJS by building Micro Front Ends",
-        "designation": "Software Engineer",
+        "timeline": "",
+        "projectName": "",
+        "headline1": "",
+        "headline2": "",
+        "designation": "",
+        "link": {
+          "linkText": "",
+          "linkUrl": ""
+        },
+        "skills": "",
+        "companyName": "",
+        "images": []
+      },
+      {
+        "timeline": "2007 - 2011",
+        "projectName": "",
+        "headline1": "Worked on Data-driven Decision Making",
+        "headline2": "Developed automated dashboards in Tableau and Power BI, reducing reporting time by 50%. Optimized SQL queries for large datasets, improving query efficiency by 40%. Implemented predictive analytics models for sales forecasting, increasing revenue accuracy by 15%.",
+        "designation": "Data Analyst",
         "link": {
           "linkUrl": "https://originui.com/badge",
-          "linkText": "Click here for the Project"
+          "linkText": "Link"
         },
         "cover": "",
-        "skills": "ReactJS, TypeScript, Redux, PWA",
-        "companyName": "Intuit",
+        "skills": "SQL, Data Warehousing, Tableau, Python",
+        "companyName": "Infosys",
         "clientName": "",
-        "images": [
-          {
-            "fileName": "cartoon_male_who_is_professional_sitting_at.jpeg",
-            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/placement-pro/master/images/cartoon_male_who_is_professional_sitting_at.jpeg"
-          },
-          {
-            "fileName": "cartoon_professional_girl_who_is_indian_sitting.jpeg",
-            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/hr-favorite/master/images/cartoon_professional_girl_who_is_indian_sitting.jpeg"
-          },
-          {
-            "fileName": "NewLogo.jpeg",
-            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/hr-favorite/master/images/NewLogo.jpeg"
-          }
-        ],
-        "rank": "1"
+        "images": [],
+        "rank": "4"
       },
       {
         "timeline": "2007-2011",
@@ -99,7 +100,24 @@
         "companyName": "Infosys",
         "clientName": "",
         "images": [],
-        "rank": "2"
+        "rank": "4"
+      },
+      {
+        "timeline": "2021 - Present",
+        "projectName": "",
+        "headline1": "Driving AI-powered Business Insights",
+        "headline2": "Developed large-scale data models to improve ad targeting, boosting revenue by 25%. Led a team to build automated data pipelines reducing manual work by 40%. Spearheaded AI-driven sentiment analysis to enhance customer experience.",
+        "designation": "Principal Data Scientist",
+        "link": {
+          "linkUrl": "https://originui.com/badge",
+          "linkText": "Link"
+        },
+        "cover": "",
+        "skills": "AI/ML, Google Cloud, Advanced Data Science, Business Intelligence",
+        "companyName": "Google",
+        "clientName": "",
+        "images": [],
+        "rank": "1"
       }
     ]
   },
@@ -107,7 +125,7 @@
     "displayName": "Qualifications",
     "qualifications": [
       {
-        "timeline": "2004-2007",
+        "timeline": "2004 - 2007",
         "courseName": "Bachelor of Science in Data Science & Analytics",
         "instituteName": "Delhi University, India",
         "specializedIn": "Data Science, Statistics, Computer Science",
@@ -120,7 +138,7 @@
           "linkUrl": "https://github.com/"
         },
         "images": [],
-        "rank": "3"
+        "rank": "5"
       }
     ]
   }
