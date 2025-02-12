@@ -55,6 +55,23 @@
     "displayName": "Timeline",
     "projects": [
       {
+        "timeline": "2016 - 2021",
+        "projectName": "",
+        "headline1": "Led AI-driven Analytics for E-commerce Growth.",
+        "headline2": "Built AI-powered customer recommendation systems, improving conversion rates by 18%. Developed real-time fraud detection algorithms using machine learning and NLP, reducing fraud cases by 35%. Optimized supply chain forecasting models, cutting logistics costs by 20%.",
+        "designation": "Lead Data Analyst",
+        "link": {
+          "linkUrl": "https://originui.com/badge",
+          "linkText": "Link"
+        },
+        "cover": "",
+        "skills": "Big Data, AWS, Python, Deep Learning, NLP",
+        "companyName": "Amazon",
+        "clientName": "",
+        "images": [],
+        "rank": "2"
+      },
+      {
         "timeline": "2021 - Present",
         "projectName": "",
         "headline1": "Driving AI-powered Business Insights",
