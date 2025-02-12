@@ -22,41 +22,8 @@
     "description": "Analytical data expert transforming raw data into actionable insights. I optimize decision-making with data visualization & predictive analytics. Let's turn data into powerful strategies."
   },
   "skillsInfo": {
-    "displayName": "Specialization",
-    "skills": [
-      {
-        "name": "Content Marketing",
-        "rating": 8.5
-      },
-      {
-        "name": "Social Media Marketing",
-        "rating": 8.5
-      },
-      {
-        "name": "Search Engine Marketing",
-        "rating": 8.5
-      },
-      {
-        "name": "Search Engine Optimization",
-        "rating": 8.5
-      },
-      {
-        "name": "Conversion Rate Optimization",
-        "rating": 8.5
-      },
-      {
-        "name": "Web Analytics",
-        "rating": 8.5
-      },
-      {
-        "name": "Email Marketing",
-        "rating": 8.5
-      },
-      {
-        "name": "Marketing Automation Specialist",
-        "rating": 8.5
-      }
-    ],
+    "displayName": "Data Analytics",
+    "skills": [],
     "showMovingSkills": false
   },
   "projectsInfo": {
