@@ -55,18 +55,19 @@
     "displayName": "Timeline",
     "projects": [
       {
-        "timeline": "",
+        "timeline": "2016 - 2021",
         "projectName": "",
-        "headline1": "",
-        "headline2": "",
-        "designation": "",
+        "headline1": "Led AI-driven Analytics for E-commerce Growth.",
+        "headline2": "Built AI-powered customer recommendation systems, improving conversion rates by 18%. Developed real-time fraud detection algorithms using machine learning and NLP, reducing fraud cases by 35%. Optimized supply chain forecasting models, cutting logistics costs by 20%.",
+        "designation": " Lead Data Analyst",
         "link": {
           "linkText": "",
           "linkUrl": ""
         },
-        "skills": "",
-        "companyName": "",
-        "images": []
+        "skills": "Big Data, AWS, Python, Deep Learning, NLP",
+        "companyName": "Amazon",
+        "images": [],
+        "rank": "2"
       },
       {
         "timeline": "2021 - Present",
@@ -80,7 +81,8 @@
         },
         "skills": "AI/ML, Google Cloud, Advanced Data Science, Business Intelligence",
         "companyName": "Google",
-        "images": []
+        "images": [],
+        "rank": "1"
       },
       {
         "timeline": "2011 - 2016",
