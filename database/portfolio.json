@@ -23,7 +23,12 @@
   },
   "skillsInfo": {
     "displayName": "Data Analytics",
-    "skills": [],
+    "skills": [
+      {
+        "name": "Data Visualization",
+        "rating": 8.5
+      }
+    ],
     "showMovingSkills": false
   },
   "projectsInfo": {
