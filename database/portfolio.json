@@ -109,28 +109,19 @@
     "displayName": "Qualifications",
     "qualifications": [
       {
-        "timeline": "2004-07",
-        "courseName": "Bachelor of CO",
-        "instituteName": "H.N.B. Garhwal University, Srinagar, UK",
-        "specializedIn": "Mathematics, Physics, Chemistry",
+        "timeline": "2004-2007",
+        "courseName": "Bachelor of Science in Data Science & Analytics",
+        "instituteName": "Delhi University, India",
+        "specializedIn": "Data Science, Statistics, Computer Science",
         "yearPassout": "2007",
-        "headline1": "Pursued B.SC specialized in Mathematics",
-        "headline2": "Won Mathematics quiz as 1st Prize",
-        "cgpa": "9.5",
+        "headline1": "Specialized in Data Science and Statistical Modeling.",
+        "headline2": "Won 1st Prize in a National-Level Data Analytics Competition.",
+        "cgpa": "9.1",
         "link": {
           "linkText": "Degree",
           "linkUrl": "https://github.com/"
         },
-        "images": [
-          {
-            "fileName": "cartoon_professional_girl_who_is_indian_sitting.jpeg",
-            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/placement-pro/master/images/cartoon_professional_girl_who_is_indian_sitting.jpeg"
-          },
-          {
-            "fileName": "cartoon_male_who_is_professional_sitting_at.jpeg",
-            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/placement-pro/master/images/cartoon_male_who_is_professional_sitting_at.jpeg"
-          }
-        ],
+        "images": [],
         "rank": "3"
       }
     ]
