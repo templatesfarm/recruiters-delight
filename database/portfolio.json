@@ -55,21 +55,21 @@
     "displayName": "Timeline",
     "projects": [
       {
-        "timeline": "2016 - 2021",
+        "timeline": "2011 - 2016",
         "projectName": "",
-        "headline1": "Led AI-driven Analytics for E-commerce Growth.",
-        "headline2": "Built AI-powered customer recommendation systems, improving conversion rates by 18%. Developed real-time fraud detection algorithms using machine learning and NLP, reducing fraud cases by 35%. Optimized supply chain forecasting models, cutting logistics costs by 20%.",
-        "designation": "Lead Data Analyst",
+        "headline1": "Led Data Engineering and Predictive Analytics.",
+        "headline2": "Designed ETL pipelines and integrated multi-source data for real-time analytics. Built machine learning models for customer segmentation, increasing engagement by 20%. Developed automated anomaly detection systems, improving fraud detection accuracy by 30%.",
+        "designation": "Senior Data Analyst",
         "link": {
           "linkUrl": "https://originui.com/badge",
           "linkText": "Link"
         },
         "cover": "",
-        "skills": "Big Data, AWS, Python, Deep Learning, NLP",
-        "companyName": "Amazon",
+        "skills": "Business Intelligence, Data Engineering, Python, Machine Learning",
+        "companyName": "TCS (Tata Consultancy Services)",
         "clientName": "",
         "images": [],
-        "rank": "2"
+        "rank": "3"
       },
       {
         "timeline": "2021 - Present",
