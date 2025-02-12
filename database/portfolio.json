@@ -123,7 +123,12 @@
         "skills": "SQL, Data Warehousing, Tableau, Python",
         "companyName": "Infosys",
         "clientName": "",
-        "images": [],
+        "images": [
+          {
+            "fileName": "da1.jpeg",
+            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/recruiters-delight/master/images/da1.jpeg"
+          }
+        ],
         "rank": "4"
       }
     ]
