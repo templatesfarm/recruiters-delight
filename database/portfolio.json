@@ -55,7 +55,7 @@
     "displayName": "Timeline",
     "projects": [
       {
-        "timeline": "",
+        "timeline": "2021 - Present",
         "projectName": "",
         "headline1": "",
         "headline2": "",
@@ -65,7 +65,7 @@
           "linkUrl": ""
         },
         "skills": "",
-        "companyName": "",
+        "companyName": "Google",
         "images": []
       },
       {
@@ -121,7 +121,7 @@
           "linkUrl": "https://github.com/"
         },
         "images": [],
-        "rank": "5"
+        "rank": "4"
       }
     ]
   }
