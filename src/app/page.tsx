@@ -6,9 +6,9 @@ export async function generateMetadata({}): Promise<Metadata> {
   const { portfolio, url } = await fetchPortfolioDetails();
   if (portfolio?.personalInfo?.name) {
     return {
-      title: `${portfolio.personalInfo.name} | Portfolio | TemplatesFarm`,
+      title: `${portfolio.personalInfo.name} | Portfolio`,
       description: portfolio.heroInfo.description,
-      keywords: `${portfolio.personalInfo.name} Portfolio, TemplatesFarm`,
+      keywords: `${portfolio.personalInfo.name} Portfolio`,
       alternates: {
         canonical: url,
       },
@@ -16,9 +16,9 @@ export async function generateMetadata({}): Promise<Metadata> {
   }
 
   return {
-    title: "Portfolio | TemplatesFarm",
-    description: "Portfolio of a developer",
-    keywords: "Portfolio, Developer",
+    title: "Portfolio",
+    description: "Portfolio of a Professional",
+    keywords: "Portfolio, Professional",
   };
 }
 
