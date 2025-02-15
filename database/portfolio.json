@@ -57,7 +57,7 @@
         "rating": 6
       }
     ],
-    "showMovingSkills": false
+    "showMovingSkills": true
   },
   "projectsInfo": {
     "displayName": "Timeline",
