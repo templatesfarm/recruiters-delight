@@ -1,0 +1,221 @@
+{
+  "personalInfo": {
+    "displayName": "",
+    "name": "Arya Malhotra",
+    "contactNumber": "9876543210",
+    "email": "aryamalhotra@gmail.com",
+    "socialMedia": {
+      "linkedIn": "https://www.linkedin.com/",
+      "github": "https://github.com/",
+      "youtube": "https://www.youtube.com/",
+      "xdotcom": "https://twitter.com/",
+      "instagram": "https://www.instagram.com/",
+      "facebook": ""
+    },
+    "resumeName": "AryaMalhotra-CV.pdf",
+    "gender": "Female"
+  },
+  "heroInfo": {
+    "displayName": "",
+    "message": "Nice to Meet you!",
+    "introduction": "I  am  Arya, Data  Analyst",
+    "description": "Analytical data expert transforming raw data into actionable insights. I optimize decision-making with data visualization & predictive analytics. Let's turn data into powerful strategies."
+  },
+  "skillsInfo": {
+    "displayName": "Specialization",
+    "skills": [
+      {
+        "id": "1740394615962",
+        "name": "Data Visualization",
+        "rating": 8
+      },
+      {
+        "id": "1740394628146",
+        "name": "SQL & Database Management",
+        "rating": 5
+      },
+      {
+        "id": "1740394636995",
+        "name": "Statistical Analysis",
+        "rating": 8
+      },
+      {
+        "id": "1740394644696",
+        "name": "Machine Learning Basics",
+        "rating": 7.5
+      },
+      {
+        "id": "1740394652678",
+        "name": "Business Intelligence (BI)",
+        "rating": 8.5
+      },
+      {
+        "id": "1740394659995",
+        "name": "Data Cleaning & Preprocessing",
+        "rating": 8.5
+      },
+      {
+        "id": "1740394667429",
+        "name": "Python for Data Analysis",
+        "rating": 7
+      },
+      {
+        "id": "1740394675295",
+        "name": "Dashboard & Reporting",
+        "rating": 9
+      }
+    ],
+    "skillAnimationType": "moving-animation"
+  },
+  "achievementsInfo": {
+    "displayName": "Achievements",
+    "listOfAchievements": [
+      {
+        "id": "1740330713541",
+        "text": "Tableau Desktop Specialist – Certified by Tableau for dashboard building and analysis.",
+        "type": "certificate"
+      },
+      {
+        "id": "1740330734077",
+        "text": "Google Data Analytics Professional Certificate – Covers SQL, Python, and Tableau.",
+        "type": "certificate"
+      },
+      {
+        "id": "1740330747678",
+        "text": "Published a research paper on Data-Driven Decision Making in a reputed journal, highlighting impactful analytical insights and methodologies.",
+        "type": "other"
+      },
+      {
+        "id": "1740396285549",
+        "text": "Earned a certificate of achievement on Kaggle for delivering top-performing data analysis and insights, securing a place in the top 20.",
+        "type": "certificate"
+      }
+    ]
+  },
+  "projectsInfo": {
+    "displayName": "Timeline",
+    "projects": [
+      {
+        "timeline": "2016 - 2021",
+        "projectName": "",
+        "headline1": "Led AI-driven Analytics for E-commerce Growth.",
+        "headline2": "Built AI-powered customer recommendation systems, improving conversion rates by 18%. Developed real-time fraud detection algorithms using machine learning and NLP, reducing fraud cases by 35%. Optimized supply chain forecasting models, cutting logistics costs by 20%.",
+        "designation": " Lead Data Analyst",
+        "link": {
+          "linkText": "",
+          "linkUrl": ""
+        },
+        "skills": "Big Data, AWS, Python, Deep Learning, NLP",
+        "companyName": "Amazon",
+        "images": [
+          {
+            "fileName": "da5.png",
+            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/recruiters-delight/master/images/da5.png"
+          }
+        ],
+        "rank": "2"
+      },
+      {
+        "timeline": "2021 - Present",
+        "projectName": "",
+        "headline1": "Driving AI-powered Business Insights.",
+        "headline2": "Developed large-scale data models to improve ad targeting, boosting revenue by 25%. Led a team to build automated data pipelines reducing manual work by 40%. Spearheaded AI-driven sentiment analysis to enhance customer experience.",
+        "designation": "Principal Data Scientist",
+        "link": {
+          "linkText": "Link",
+          "linkUrl": "https://originui.com/badge"
+        },
+        "skills": "AI/ML, Google Cloud, Advanced Data Science, Business Intelligence",
+        "companyName": "Google",
+        "images": [
+          {
+            "fileName": "da4.png",
+            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/recruiters-delight/master/images/da4.png"
+          },
+          {
+            "fileName": "da3.png",
+            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/recruiters-delight/master/images/da3.png"
+          },
+          {
+            "fileName": "da8.png",
+            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/recruiters-delight/master/images/da8.png"
+          }
+        ],
+        "rank": "1"
+      },
+      {
+        "timeline": "2011 - 2016",
+        "projectName": "",
+        "headline1": "Led Data Engineering and Predictive Analytics.",
+        "headline2": "Designed ETL pipelines and integrated multi-source data for real-time analytics. Built machine learning models for customer segmentation, increasing engagement by 20%. Developed automated anomaly detection systems, improving fraud detection accuracy by 30%.",
+        "designation": "Senior Data Analyst",
+        "link": {
+          "linkUrl": "https://originui.com/badge",
+          "linkText": "Link"
+        },
+        "cover": "",
+        "skills": "Business Intelligence, Data Engineering, Python, Machine Learning",
+        "companyName": "TCS (Tata Consultancy Services)",
+        "clientName": "",
+        "images": [
+          {
+            "fileName": "da2.jpg",
+            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/recruiters-delight/master/images/da2.jpg"
+          },
+          {
+            "fileName": "da7.png",
+            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/recruiters-delight/master/images/da7.png"
+          }
+        ],
+        "rank": "3"
+      },
+      {
+        "timeline": "2007 - 2011",
+        "projectName": "",
+        "headline1": "Worked on Data-driven Decision Making.",
+        "headline2": "Developed automated dashboards in Tableau and Power BI, reducing reporting time by 50%. Optimized SQL queries for large datasets, improving query efficiency by 40%. Implemented predictive analytics models for sales forecasting, increasing revenue accuracy by 15%.",
+        "designation": "Data Analyst",
+        "link": {
+          "linkUrl": "https://originui.com/badge",
+          "linkText": "Link"
+        },
+        "cover": "",
+        "skills": "SQL, Data Warehousing, Tableau, Python",
+        "companyName": "Infosys",
+        "clientName": "",
+        "images": [
+          {
+            "fileName": "da1.jpeg",
+            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/recruiters-delight/master/images/da1.jpeg"
+          },
+          {
+            "fileName": "da6.png",
+            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/recruiters-delight/master/images/da6.png"
+          }
+        ],
+        "rank": "4"
+      }
+    ]
+  },
+  "qualificationInfo": {
+    "displayName": "Qualifications",
+    "qualifications": [
+      {
+        "timeline": "2004 - 2007",
+        "courseName": "Bachelor of Science in Data Science & Analytics",
+        "instituteName": "Delhi University, India",
+        "specializedIn": "Data Science, Statistics, Computer Science",
+        "yearPassout": "2007",
+        "headline1": "Specialized in Data Science and Statistical Modeling.",
+        "headline2": "Won 1st Prize in a National-Level Data Analytics Competition.",
+        "cgpa": "9.1",
+        "link": {
+          "linkText": "Degree",
+          "linkUrl": "https://github.com/"
+        },
+        "images": [],
+        "rank": "5"
+      }
+    ]
+  }
+}
