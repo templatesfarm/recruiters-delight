@@ -76,8 +76,12 @@
         "companyName": "Amazon",
         "images": [
           {
-            "fileName": "",
-            "fileUrl": ""
+            "fileName": "da7.png",
+            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/recruiters-delight/master/images/da7.png"
+          },
+          {
+            "fileName": "da8.png",
+            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/recruiters-delight/master/images/da8.png"
           }
         ],
         "rank": "2"
@@ -96,8 +100,12 @@
         "companyName": "Google",
         "images": [
           {
-            "fileName": "",
-            "fileUrl": ""
+            "fileName": "da5.png",
+            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/recruiters-delight/master/images/da5.png"
+          },
+          {
+            "fileName": "da6.png",
+            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/recruiters-delight/master/images/da6.png"
           }
         ],
         "rank": "1"
@@ -118,8 +126,16 @@
         "clientName": "",
         "images": [
           {
-            "fileName": "",
-            "fileUrl": ""
+            "fileName": "da2.jpg",
+            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/recruiters-delight/master/images/da2.jpg"
+          },
+          {
+            "fileName": "da3.png",
+            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/recruiters-delight/master/images/da3.png"
+          },
+          {
+            "fileName": "da4.png",
+            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/recruiters-delight/master/images/da4.png"
           }
         ],
         "rank": "3"
@@ -140,8 +156,8 @@
         "clientName": "",
         "images": [
           {
-            "fileName": "",
-            "fileUrl": ""
+            "fileName": "da1.jpeg",
+            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/recruiters-delight/master/images/da1.jpeg"
           }
         ],
         "rank": "4"
