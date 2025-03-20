@@ -1,0 +1,172 @@
+{
+  "personalInfo": {
+    "displayName": "",
+    "name": "Arya Malhotra",
+    "contactNumber": "9876543210",
+    "email": "anyasingh@gmail.com",
+    "socialMedia": {
+      "linkedIn": "https://www.linkedin.com/",
+      "github": "https://github.com/",
+      "youtube": "https://www.youtube.com/",
+      "xdotcom": "https://twitter.com/",
+      "instagram": "https://www.instagram.com/",
+      "facebook": ""
+    },
+    "resumeName": "Arya_CV.pdf",
+    "gender": "Female"
+  },
+  "heroInfo": {
+    "displayName": "",
+    "message": "Nice to Meet you!",
+    "introduction": "I  am  Arya, Data  Analyst",
+    "description": "Analytical data expert transforming raw data into actionable insights. I optimize decision-making with data visualization & predictive analytics. Let's turn data into powerful strategies."
+  },
+  "skillsInfo": {
+    "displayName": "Skills",
+    "skills": [
+      {
+        "name": "Data Visualization",
+        "rating": 8.5
+      },
+      {
+        "name": "SQL & Database Management",
+        "rating": 7.5
+      },
+      {
+        "name": "Statistical Analysis",
+        "rating": 8.5
+      },
+      {
+        "name": "Business Intelligence (BI)",
+        "rating": 7
+      },
+      {
+        "name": "Dashboard & Reporting",
+        "rating": 8.5
+      },
+      {
+        "name": "Data Cleaning & Preprocessing",
+        "rating": 9
+      },
+      {
+        "name": "Machine Learning Basics",
+        "rating": 8.5
+      },
+      {
+        "name": "Python for Data Analysis",
+        "rating": 6
+      }
+    ],
+    "showMovingSkills": true
+  },
+  "projectsInfo": {
+    "displayName": "Timeline",
+    "projects": [
+      {
+        "timeline": "2016 - 2021",
+        "projectName": "",
+        "headline1": "Led AI-driven Analytics for E-commerce Growth.",
+        "headline2": "Built AI-powered customer recommendation systems, improving conversion rates by 18%. Developed real-time fraud detection algorithms using machine learning and NLP, reducing fraud cases by 35%. Optimized supply chain forecasting models, cutting logistics costs by 20%.",
+        "designation": " Lead Data Analyst",
+        "link": {
+          "linkText": "",
+          "linkUrl": ""
+        },
+        "skills": "Big Data, AWS, Python, Deep Learning, NLP",
+        "companyName": "Amazon",
+        "images": [
+          {
+            "fileName": "",
+            "fileUrl": ""
+          }
+        ],
+        "rank": "2"
+      },
+      {
+        "timeline": "2021 - Present",
+        "projectName": "",
+        "headline1": "Driving AI-powered Business Insights.",
+        "headline2": "Developed large-scale data models to improve ad targeting, boosting revenue by 25%. Led a team to build automated data pipelines reducing manual work by 40%. Spearheaded AI-driven sentiment analysis to enhance customer experience.",
+        "designation": "Principal Data Scientist",
+        "link": {
+          "linkText": "Link",
+          "linkUrl": "https://originui.com/badge"
+        },
+        "skills": "AI/ML, Google Cloud, Advanced Data Science, Business Intelligence",
+        "companyName": "Google",
+        "images": [
+          {
+            "fileName": "",
+            "fileUrl": ""
+          }
+        ],
+        "rank": "1"
+      },
+      {
+        "timeline": "2011 - 2016",
+        "projectName": "",
+        "headline1": "Led Data Engineering and Predictive Analytics.",
+        "headline2": "Designed ETL pipelines and integrated multi-source data for real-time analytics. Built machine learning models for customer segmentation, increasing engagement by 20%. Developed automated anomaly detection systems, improving fraud detection accuracy by 30%.",
+        "designation": "Senior Data Analyst",
+        "link": {
+          "linkUrl": "https://originui.com/badge",
+          "linkText": "Link"
+        },
+        "cover": "",
+        "skills": "Business Intelligence, Data Engineering, Python, Machine Learning",
+        "companyName": "TCS (Tata Consultancy Services)",
+        "clientName": "",
+        "images": [
+          {
+            "fileName": "",
+            "fileUrl": ""
+          }
+        ],
+        "rank": "3"
+      },
+      {
+        "timeline": "2007 - 2011",
+        "projectName": "",
+        "headline1": "Worked on Data-driven Decision Making.",
+        "headline2": "Developed automated dashboards in Tableau and Power BI, reducing reporting time by 50%. Optimized SQL queries for large datasets, improving query efficiency by 40%. Implemented predictive analytics models for sales forecasting, increasing revenue accuracy by 15%.",
+        "designation": "Data Analyst",
+        "link": {
+          "linkUrl": "https://originui.com/badge",
+          "linkText": "Link"
+        },
+        "cover": "",
+        "skills": "SQL, Data Warehousing, Tableau, Python",
+        "companyName": "Infosys",
+        "clientName": "",
+        "images": [
+          {
+            "fileName": "",
+            "fileUrl": ""
+          }
+        ],
+        "rank": "4"
+      }
+    ]
+  },
+  "qualificationInfo": {
+    "displayName": "Qualifications",
+    "qualifications": [
+      {
+        "timeline": "2004 - 2007",
+        "courseName": "Bachelor of Science in Data Science & Analytics",
+        "instituteName": "Delhi University, India",
+        "specializedIn": "Data Science, Statistics, Computer Science",
+        "yearPassout": "2007",
+        "headline1": "Specialized in Data Science and Statistical Modeling.",
+        "headline2": "Won 1st Prize in a National-Level Data Analytics Competition.",
+        "cgpa": "9.1",
+        "link": {
+          "linkText": "Degree",
+          "linkUrl": "https://github.com/"
+        },
+        "images": [],
+        "rank": "5"
+      }
+    ]
+  }
+}
