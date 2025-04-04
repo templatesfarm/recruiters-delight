@@ -28,7 +28,7 @@
     "motion": "^11.18.2",
     "next": "14.2.13",
     "next-themes": "^0.3.0",
-    "portfolioapi": "^1.0.1",
+    "portfolioapi": "^1.1.0",
     "portfolioui": "^1.5.0",
     "react": "^18",
     "react-dom": "^18",
