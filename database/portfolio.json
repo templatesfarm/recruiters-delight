@@ -25,39 +25,112 @@
     "displayName": "Skills",
     "skills": [
       {
-        "name": "Data Visualization",
-        "rating": 8.5
-      },
-      {
-        "name": "SQL & Database Management",
-        "rating": 7.5
-      },
-      {
-        "name": "Statistical Analysis",
-        "rating": 8.5
-      },
-      {
-        "name": "Business Intelligence (BI)",
+        "id": "1740395651799",
+        "name": "React Native",
         "rating": 7
       },
       {
-        "name": "Dashboard & Reporting",
+        "id": "1740395657898",
+        "name": "ReactJS",
+        "rating": 5
+      },
+      {
+        "id": "1740395644199",
+        "name": "JavaScript",
+        "rating": 8
+      },
+      {
+        "id": "1740395667382",
+        "name": "Redux",
+        "rating": 8
+      },
+      {
+        "id": "1740395676065",
+        "name": "CSS",
         "rating": 8.5
       },
       {
-        "name": "Data Cleaning & Preprocessing",
-        "rating": 9
+        "id": "1740395685031",
+        "name": "SASS/SCSS",
+        "rating": 7.5
       },
       {
-        "name": "Machine Learning Basics",
+        "id": "1740395695702",
+        "name": "HTML",
+        "rating": 7.5
+      },
+      {
+        "id": "1740395714800",
+        "name": "Bootstrap",
+        "rating": 8
+      },
+      {
+        "id": "1740395723281",
+        "name": "Adobe Experience Manager",
         "rating": 8.5
       },
       {
-        "name": "Python for Data Analysis",
-        "rating": 6
+        "id": "1742281623613",
+        "name": "GraphQL",
+        "rating": 8
+      },
+      {
+        "id": "1740395757214",
+        "name": "Git",
+        "rating": 8.5
+      },
+      {
+        "id": "1742461688521",
+        "name": "Google Tag Manager",
+        "rating": 8
+      },
+      {
+        "id": "1742461698962",
+        "name": "Google Analytics",
+        "rating": 8
+      },
+      {
+        "id": "1742461741312",
+        "name": "Bitbucket",
+        "rating": 8
+      },
+      {
+        "id": "1742461749200",
+        "name": "Jira",
+        "rating": 8
       }
     ],
     "showMovingSkills": true
+  },
+  "achievementsInfo": {
+    "displayName": "Achievements",
+    "listOfAchievements": [
+      {
+        "id": "1740419571264",
+        "text": "Received the Best Research Paper Award for significant contributions to artificial intelligence applications in education, with the research published in a renowned international journal.",
+        "type": "award"
+      },
+      {
+        "id": "1740419582546",
+        "text": "Successfully completed the Stanford University Machine Learning Certification, gaining expertise in supervised and unsupervised learning, deep learning, and AI-driven decision-making.",
+        "type": "certificate"
+      },
+      {
+        "id": "1740419590962",
+        "text": "Invited as a keynote speaker at the National Education Summit, where I delivered a session on the impact of AI and big data in modern educational methodologies.",
+        "type": "other"
+      },
+      {
+        "id": "1740419599529",
+        "text": "Honored with the Distinguished Professor Award by a prestigious university in recognition of excellence in research, teaching, and academic leadership.",
+        "type": "award"
+      },
+      {
+        "id": "1740419611379",
+        "text": "Mentored over 50 Ph.D. and Master’s students, guiding research scholars in various domains including artificial intelligence, cybersecurity, and blockchain applications.",
+        "type": "other"
+      }
+    ]
   },
   "projectsInfo": {
     "displayName": "Timeline",
