@@ -25,82 +25,52 @@
     "displayName": "Tools",
     "skills": [
       {
-        "id": "1740395651799",
-        "name": "React Native",
+        "id": "1744196664785",
+        "name": "Excel",
+        "rating": 8.5
+      },
+      {
+        "id": "1744196678452",
+        "name": "Power BI",
+        "rating": 8
+      },
+      {
+        "id": "1744196683452",
+        "name": "Tableau",
+        "rating": 8
+      },
+      {
+        "id": "1744196690219",
+        "name": "Data Visualization",
+        "rating": 9
+      },
+      {
+        "id": "1744196696319",
+        "name": "Data Analysis",
+        "rating": 8
+      },
+      {
+        "id": "1744196704386",
+        "name": "Regression",
+        "rating": 8
+      },
+      {
+        "id": "1744196711869",
+        "name": "Business Intelligence",
         "rating": 7
       },
       {
-        "id": "1740395657898",
-        "name": "ReactJS",
-        "rating": 5
-      },
-      {
-        "id": "1740395644199",
-        "name": "JavaScript",
+        "id": "1744196723052",
+        "name": "Data Modeling",
         "rating": 8
       },
       {
-        "id": "1740395667382",
-        "name": "Redux",
-        "rating": 8
-      },
-      {
-        "id": "1740395676065",
-        "name": "CSS",
-        "rating": 8.5
-      },
-      {
-        "id": "1740395685031",
-        "name": "SASS/SCSS",
-        "rating": 7.5
-      },
-      {
-        "id": "1740395695702",
-        "name": "HTML",
-        "rating": 7.5
-      },
-      {
-        "id": "1740395714800",
-        "name": "Bootstrap",
-        "rating": 8
-      },
-      {
-        "id": "1740395723281",
-        "name": "Adobe Experience Manager",
-        "rating": 8.5
-      },
-      {
-        "id": "1742281623613",
-        "name": "GraphQL",
-        "rating": 8
-      },
-      {
-        "id": "1740395757214",
-        "name": "Git",
-        "rating": 8.5
-      },
-      {
-        "id": "1742461688521",
-        "name": "Google Tag Manager",
-        "rating": 8
-      },
-      {
-        "id": "1742461698962",
-        "name": "Google Analytics",
-        "rating": 8
-      },
-      {
-        "id": "1742461741312",
-        "name": "Bitbucket",
-        "rating": 8
-      },
-      {
-        "id": "1742461749200",
-        "name": "Jira",
-        "rating": 8
+        "id": "1744196738502",
+        "name": "Time Series Analysis",
+        "rating": 9
       }
     ],
-    "showMovingSkills": true
+    "skillAnimationType": "moving-animation"
   },
   "achievementsInfo": {
     "displayName": "Achievements",
