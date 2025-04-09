@@ -76,28 +76,18 @@
     "displayName": "Achievements",
     "listOfAchievements": [
       {
-        "id": "1740419571264",
-        "text": "Received the Best Research Paper Award for significant contributions to artificial intelligence applications in education, with the research published in a renowned international journal.",
-        "type": "award"
-      },
-      {
-        "id": "1740419582546",
-        "text": "Successfully completed the Stanford University Machine Learning Certification, gaining expertise in supervised and unsupervised learning, deep learning, and AI-driven decision-making.",
+        "id": "1744196784436",
+        "text": "Completed the Google Data Analytics Professional Certificate on Coursera, with practical experience in SQL, spreadsheets, and dashboards.",
         "type": "certificate"
       },
       {
-        "id": "1740419590962",
-        "text": "Invited as a keynote speaker at the National Education Summit, where I delivered a session on the impact of AI and big data in modern educational methodologies.",
-        "type": "other"
-      },
-      {
-        "id": "1740419599529",
-        "text": "Honored with the Distinguished Professor Award by a prestigious university in recognition of excellence in research, teaching, and academic leadership.",
+        "id": "1744196792853",
+        "text": "Secured 2nd place in a national-level Data Analysis Hackathon by building a dynamic customer churn prediction tool using Python and visualization with Matplotlib.",
         "type": "award"
       },
       {
-        "id": "1740419611379",
-        "text": "Mentored over 50 Ph.D. and Master’s students, guiding research scholars in various domains including artificial intelligence, cybersecurity, and blockchain applications.",
+        "id": "1744196801269",
+        "text": "Recognized by team leads for optimizing an Excel-based report automation process, reducing manual effort by 40%.",
         "type": "other"
       }
     ]
